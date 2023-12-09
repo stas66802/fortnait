@@ -1,0 +1,59 @@
+body {
+    font-size: sans-serif;
+    font-size: 20px;
+}
+
+header {
+    background-color: aquamarine;
+    font-family: monospace;
+    padding: 105;
+}
+
+main p {
+    font-size: 17px;
+    text-decoration: none;
+}
+
+nav {
+    margin: 3px;
+    background-color: black;
+    height: 120px;
+}
+
+nav a {
+    border: 2px solid red;
+    text-decoration: none;
+    color: yellow;
+    margin: 40px;
+    padding: 4px;
+    background-color: red;
+    border-radius: 20px;
+}
+header img {
+    width: 200px;
+}
+
+header a {
+    text-align: end;
+    border: crimson;
+}
+
+main img {
+    height: 300px;
+    border: 3px solid green;
+}
+
+main {
+    background-color: grey;
+}
+
+main h1 {
+    color: yellow;
+    text-align: center;
+}
+
+footer {
+    background-color: yellowgreen;
+    height: 100px;
+    text-align: center;
+}
